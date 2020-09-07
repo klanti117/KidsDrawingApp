@@ -13,4 +13,8 @@ Features:
 Here is the Demo Video:
 (Located in /video if it is not loading)
 
-<iframe src="https://github.com/klanti117/KidsDrawingApp/blob/master/video/Demo%20Video.mov" frameborder="0" allowfullscreen="true" height="512" width="288"> </iframe>
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="video/demo Video.mov" type="video/mov">
+  </video>
+</figure>
