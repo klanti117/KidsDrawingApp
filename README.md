@@ -10,8 +10,6 @@ Features:
 
 
 Here is the Demo Video:
-(Located in /video if it is not loading)
+(Located in /img if it is not loading)
 
-<video width="320" height="240" controls>
-  <source src="video/Demo Video.mov" type="video/mov">
-</video>
+<!-- <img src="https://github.com/jessicajqsong/WordSearchGame/blob/master/img/5.png" height="512" width="288"> -->
