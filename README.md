@@ -12,4 +12,10 @@ Features:
 Here is the Demo Video:
 (Located in /img if it is not loading)
 
-<!-- <img src="https://github.com/jessicajqsong/WordSearchGame/blob/master/img/5.png" height="512" width="288"> -->
+<img src="https://github.com/klanti117/KidsDrawingApp/blob/master/img/img1.png" height="512" width="288">
+
+<img src="https://github.com/klanti117/KidsDrawingApp/blob/master/img/img2.png" height="512" width="288">
+
+<img src="https://github.com/klanti117/KidsDrawingApp/blob/master/img/img3.png" height="512" width="288">
+
+<img src="https://github.com/klanti117/KidsDrawingApp/blob/master/img/img4.png" height="512" width="288">
