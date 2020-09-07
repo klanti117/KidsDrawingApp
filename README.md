@@ -1,5 +1,4 @@
 # KidsDrawingApp
-# Word Search
 An Android Mobile Game. The goal of this app is to allow kids as well as adults have fun while drawing.  
 
 Features:
@@ -13,8 +12,6 @@ Features:
 Here is the Demo Video:
 (Located in /video if it is not loading)
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="video/demo Video.mov" type="video/mov">
-  </video>
-</figure>
+<video width="320" height="240" controls>
+  <source src="video/Demo Video.mov" type="video/mov">
+</video>
